@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441473653312",
+    "project_id": "chatbot-18b09",
+    "storage_bucket": "chatbot-18b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441473653312:android:0d760802bdbf4634c79da5",
+        "android_client_info": {
+          "package_name": "com.xihadulislam.chat_gpt_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441473653312-6lv6u8ic2rik37h6vplsc0db2j3qhd6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxP6uTCnwjXJyLCFyrlXpHSD6sFVjOIZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441473653312-6lv6u8ic2rik37h6vplsc0db2j3qhd6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
